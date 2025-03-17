@@ -1,5 +1,5 @@
 ## Group Projects
-[![Meow Mayhem](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=VR-Nudges)](https://github.com/Premadness/VR-Nudges)
+[![VR Nudges](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=VR-Nudges)](https://github.com/Premadness/VR-Nudges)
 [![Meow Mayhem](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=Meow_Mayhem)](https://github.com/Nine-Theta/Meow_Mayhem)
 [![Project FireBot](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=Project_FireBot)](https://github.com/Nine-Theta/Project_FireBot)
 [![Sanity Shift](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=Sanity_Shift)](https://github.com/Nine-Theta/Sanity_Shift)
