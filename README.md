@@ -19,7 +19,7 @@
 [![CodeSnipets](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=CodeSnipets)](https://github.com/Nine-Theta/CodeSnipets)
 
 ## Game Jam Games
-[![Rizz Revolver](https://github-readme-stats.vercel.app/api/pin/?username=koksiroj&repo=P3D_LOCKON)](https://github.com/koksiroj/P3D_LOCKON)
-[![Rise Up Sheeple](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=F3_HARDCARD)](https://github.com/Nine-Theta/F3_HARDCARD)
-[![FoxHunt](https://github-readme-stats.vercel.app/api/pin/?username=TechnicJelle&repo=DWM_WARLOCK)](https://github.com/TechnicJelle/DWM_WARLOCK)
+[![Rizz Revolver](https://github-readme-stats.vercel.app/api/pin/?username=MEGAHARD-Games&repo=P3D_LOCKON)](https://github.com/MEGAHARD-Games/P3D_LOCKON)
+[![Rise Up Sheeple](https://github-readme-stats.vercel.app/api/pin/?username=MEGAHARD-Games&repo=F3_HARDCARD)](https://github.com/MEGAHARD-Games/F3_HARDCARD)
+[![FoxHunt](https://github-readme-stats.vercel.app/api/pin/?username=MEGAHARD-Games&repo=DWM_WARLOCK)](https://github.com/MEGAHARD-Games/DWM_WARLOCK)
 [![Global Game Jam 2024](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=Global-Game-Jam-2024)](https://github.com/Nine-Theta/Global-Game-Jam-2024)
