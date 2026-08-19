@@ -1,25 +1,107 @@
-## Group Projects
-<!-- [![VR Nudges](https://github-readme-stats.vercel.app/api/pin/?username=Premadness&repo=VR-Nudges)](https://github.com/Premadness/VR-Nudges) -->
-[![Meow Mayhem](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=Meow_Mayhem)](https://github.com/Nine-Theta/Meow_Mayhem)
-[![Project FireBot](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=Project_FireBot)](https://github.com/Nine-Theta/Project_FireBot)
-[![Sanity Shift](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=Sanity_Shift)](https://github.com/Nine-Theta/Sanity_Shift)
-[![Old Planetgame](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=OldPlanetGame)](https://github.com/Nine-Theta/OldPlanetGame)
-<!-- [![Old Infinite-Runner](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=OldInfiniteRunner)](https://github.com/Nine-Theta/OldInfiniteRunner) -->
-[![Concordia](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=Concordia)](https://github.com/Nine-Theta/Concordia)
-[![Space Cats In Space](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=SpaceCatsInSpace)](https://github.com/Nine-Theta/SpaceCatsInSpace)
-[![Ice Brawlers](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=IceBrawlers)](https://github.com/Nine-Theta/IceBrawlers)
+## Collaborative Projects
+[VR Nudges](https://github.com/Premadness/VR-Nudges)<br>
+![Year](https://img.shields.io/badge/Year-2025-orange?style=flat)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
+![Unity](https://img.shields.io/badge/Unity-303030?style=flat&logo=unity&logoColor=white)
+![3D](https://img.shields.io/badge/3D-239120?style=flat)
+![VR](https://img.shields.io/badge/VR-F3F3F3?style=flat)
 
-## Personal Projects
+[Meow Mayhem](https://github.com/Nine-Theta/Meow_Mayhem)<br>
+![Year](https://img.shields.io/badge/Year-2022-orange?style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=unrealengine&logoColor=white)
+![3D](https://img.shields.io/badge/3D-239120?style=flat)
 
-[![Positive-Health](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=Graduation_Positive-Health)](https://github.com/Nine-Theta/Graduation_Positive-Health)
-[![3D-Rendering](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=3D-Rendering)](https://github.com/Nine-Theta/3D-Rendering)
-[![Software_Architecture](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=Software_Architecture_2022-23)](https://github.com/Nine-Theta/Software_Architecture_2022-23)
-[![Sorting Alogirthm Tests](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=AT-SortingAlgorithms)](https://github.com/Nine-Theta/AT-SortingAlgorithms)
-[![Project_Courier](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=Project_Courier)](https://github.com/Nine-Theta/Project_Courier)
-[![CodeSnipets](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=CodeSnipets)](https://github.com/Nine-Theta/CodeSnipets)
+[Project FireBot](https://github.com/Nine-Theta/Project_FireBot)<br>
+![Year](https://img.shields.io/badge/Year-2020-orange?style=flat)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
+![Unity](https://img.shields.io/badge/Unity-303030?style=flat&logo=unity&logoColor=white)
+![3D](https://img.shields.io/badge/3D-239120?style=flat)
+
+[Sanity Shift](https://github.com/Nine-Theta/Sanity_Shift)<br>
+![Year](https://img.shields.io/badge/Year-2019-orange?style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![CustomEngine](https://img.shields.io/badge/Custom_Engine-828282?style=flat)
+![3D](https://img.shields.io/badge/3D-239120?style=flat)
+
+[Old Planetgame](https://github.com/Nine-Theta/OldPlanetGame)<br>
+![Year](https://img.shields.io/badge/Year-2018-orange?style=flat)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
+![Unity](https://img.shields.io/badge/Unity-303030?style=flat&logo=unity&logoColor=white)
+![3D](https://img.shields.io/badge/3D-239120?style=flat)
+<!-- [Old Infinite-Runner](https://github.com/Nine-Theta/OldInfiniteRunner) -->
+
+[Concordia](https://github.com/Nine-Theta/Concordia)<br>
+![Year](https://img.shields.io/badge/Year-2017-orange?style=flat)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
+![Unity](https://img.shields.io/badge/Unity-303030?style=flat&logo=unity&logoColor=white)
+![3D](https://img.shields.io/badge/3D-239120?style=flat)
+
+[Space Cats In Space](https://github.com/Nine-Theta/SpaceCatsInSpace)<br>
+![Year](https://img.shields.io/badge/Year-2017-orange?style=flat)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
+![GXP](https://img.shields.io/badge/GXP_Engine-009C82?style=flat)
+![2D](https://img.shields.io/badge/2D-D8AC31?style=flat)
+
+[Ice Brawlers](https://github.com/Nine-Theta/IceBrawlers)<br>
+![Year](https://img.shields.io/badge/Year-2016-orange?style=flat)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
+![GXP](https://img.shields.io/badge/GXP_Engine-009C82?style=flat)
+![2D](https://img.shields.io/badge/2D-D8AC31?style=flat)
 
 ## Game Jam Games
-[![Rizz Revolver](https://github-readme-stats.vercel.app/api/pin/?username=MEGAHARD-Games&repo=P3D_LOCKON)](https://github.com/MEGAHARD-Games/P3D_LOCKON)
-[![Rise Up Sheeple](https://github-readme-stats.vercel.app/api/pin/?username=MEGAHARD-Games&repo=F3_HARDCARD)](https://github.com/MEGAHARD-Games/F3_HARDCARD)
-[![FoxHunt](https://github-readme-stats.vercel.app/api/pin/?username=MEGAHARD-Games&repo=DWM_WARLOCK)](https://github.com/MEGAHARD-Games/DWM_WARLOCK)
-[![Global Game Jam 2024](https://github-readme-stats.vercel.app/api/pin/?username=Nine-Theta&repo=Global-Game-Jam-2024)](https://github.com/Nine-Theta/Global-Game-Jam-2024)
+
+[Rizz Revolver](https://github.com/MEGAHARD-Games/P3D_LOCKON)<br>
+![Year](https://img.shields.io/badge/Year-2025-orange?style=flat)
+![Processing](https://img.shields.io/badge/processing-006699?style=flat&logo=processingfoundation&logoColor=white)
+![3D](https://img.shields.io/badge/3D-239120?style=flat)
+
+[Rise Up Sheeple](https://github.com/MEGAHARD-Games/F3_HARDCARD)<br>
+![Year](https://img.shields.io/badge/Year-2025-orange?style=flat)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
+![Unity](https://img.shields.io/badge/Unity-303030?style=flat&logo=unity&logoColor=white)
+![3D](https://img.shields.io/badge/3D-239120?style=flat)
+
+[FoxHunt](https://github.com/MEGAHARD-Games/DWM_WARLOCK)<br>
+![Year](https://img.shields.io/badge/Year-2024-orange?style=flat)
+![Processing](https://img.shields.io/badge/processing-006699?style=flat&logo=processingfoundation&logoColor=white)
+![2D](https://img.shields.io/badge/2D-D8AC31?style=flat)
+
+[Global Game Jam 2024](https://github.com/Nine-Theta/Global-Game-Jam-2024)<br>
+![Year](https://img.shields.io/badge/Year-2024-orange?style=flat)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
+![Unity](https://img.shields.io/badge/Unity-303030?style=flat&logo=unity&logoColor=white)
+![3D](https://img.shields.io/badge/3D-239120?style=flat)
+
+## Solo Projects
+
+[Positive-Health](https://github.com/Nine-Theta/Graduation_Positive-Health)<br>
+![Year](https://img.shields.io/badge/Year-2024-orange?style=flat)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
+![Unity](https://img.shields.io/badge/Unity-303030?style=flat&logo=unity&logoColor=white)
+![2D](https://img.shields.io/badge/2D-D8AC31?style=flat)
+
+[3D-Rendering](https://github.com/Nine-Theta/3D-Rendering)<br>
+![Year](https://img.shields.io/badge/Year-2023-orange?style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![CustomEngine](https://img.shields.io/badge/Custom_Engine-828282?style=flat)
+![3D](https://img.shields.io/badge/3D-239120?style=flat)
+
+[Software_Architecture](https://github.com/Nine-Theta/Software_Architecture_2022-23)<br>
+![Year](https://img.shields.io/badge/Year-2023-orange?style=flat)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
+![Unity](https://img.shields.io/badge/Unity-303030?style=flat&logo=unity&logoColor=white)
+![3D](https://img.shields.io/badge/3D-239120?style=flat)
+
+[Sorting Alogirthm Tests](https://github.com/Nine-Theta/AT-SortingAlgorithms)<br>
+![Year](https://img.shields.io/badge/Year-2024-orange?style=flat)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
+![Unity](https://img.shields.io/badge/Unity-303030?style=flat&logo=unity&logoColor=white)
+
+[Project_Courier](https://github.com/Nine-Theta/Project_Courier)<br>
+![Year](https://img.shields.io/badge/Year-2023-orange?style=flat)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
+![Unity](https://img.shields.io/badge/Unity-303030?style=flat&logo=unity&logoColor=white)
+![2D](https://img.shields.io/badge/2D-D8AC31?style=flat)
+<!-- [CodeSnipets](https://github.com/Nine-Theta/CodeSnipets) -->
+
